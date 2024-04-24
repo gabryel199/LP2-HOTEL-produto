@@ -1,5 +1,5 @@
 {
-  "produto": [
+  "produtos": [
         {
           "id": 1,
           "titulo": "misto quente",
@@ -37,7 +37,7 @@
           "tipoProduto_id": 4
         }
       ],
-      "produtoHospedagem": [
+      "produtoHospedagens": [
         {
           "id": 1,
           "quant": 1,
@@ -81,7 +81,7 @@
           "produto_id": 4
         }
       ],
-      "tipoProduto": [
+      "tipoProdutos": [
         {
           "id": 1,
           "titulo": "lanche",
